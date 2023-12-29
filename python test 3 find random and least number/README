@@ -1,4 +1,11 @@
 // Purpose //
 This code generates random numbers and finds the maximum difference between n and a random number that is less than or equal to n. If there is no such number, it prints "None"
 
+i.e.
+
+input: 3 6 (3 and 6 with a space in between)
+==> n=3 , m=6 (no. of integers generated)
+==> 10 6 30 20 1 8
+then "1" will be printed
+
 // END //
