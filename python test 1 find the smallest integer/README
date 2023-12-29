@@ -2,7 +2,7 @@ Read Me
 
 // Purpose //
 "Input" file is already given by the professor.
-What we have to do is to read the tct file, and generate/find out the smallest integer
+What we have to do is to read the txt file, and generate/find out the smallest integer
 
 "python test1.py" is for testing only.
 *** Pls run "python test1A.py" ***
