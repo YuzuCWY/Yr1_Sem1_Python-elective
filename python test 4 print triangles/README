@@ -1,0 +1,34 @@
+// purpose //
+
+print triangles~
+
+input an integer, then print out a triangle with corresponding levels, i.e.
+
+3
+  #
+ #*#
+# # #
+
+5
+    #
+   #*#
+  #***#
+ #*****#
+# # # # #
+
+
+1
+#
+
+9
+        #
+       #*#
+      #***#
+     #*****#
+    #*******#
+   #*********#
+  #***********#
+ #*************#
+# # # # # # # # #
+
+// END //
