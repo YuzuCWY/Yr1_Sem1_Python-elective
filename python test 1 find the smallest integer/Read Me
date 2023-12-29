@@ -9,12 +9,4 @@ What we have to do is to read the tct file, and generate/find out the smallest i
 
 // Purpose END //
 
-// Question //
-已知九九乘法表中有81個公式，每個公式皆可用 M1 X M2 = P 表示，其中M1為被乘數，M2為乘數，P為其乘積。請依據下面規則依序將乘法表中81個公式列出。
-
-先由小到大列出九九乘法表中 M1為奇數的公式，若M1相同時，則根據M2由小到大列出。
-接下來列出剩餘的九九乘法表中M2為奇數的公式(M1越小越先列出，若M1相同則根據M2由小到大列出)
-最後列出剩餘的公式(M1越小越先列出，若M1相同則根據M2由小到大列出)
-
-// Question END //
 
