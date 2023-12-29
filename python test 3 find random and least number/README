@@ -1,0 +1,4 @@
+// Purpose //
+This code generates random numbers and finds the maximum difference between n and a random number that is less than or equal to n. If there is no such number, it prints "None"
+
+// END //
